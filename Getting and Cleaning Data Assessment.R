@@ -1,5 +1,3 @@
-setwd("/Users/chrischu/Documents/Data Science/3. Getting and Cleaning Data/UCI HAR Dataset/")
-
 # Input Data
 features        <-  read.table("features.txt")
 activity_label  <-  read.table("activity_labels.txt")
